@@ -25,9 +25,11 @@ Scripts are ordered 1-9
 9: Using species predictions, calculate and map similarity/differences in community composition across the GRNP and leakage belt
 
 
+
 DATA
 The data2 folder includes all input and output data used and created in running the code
   - NB: it excludes satellite raster inputs due to size constraints, but includes the calculated outputs for the next stages
+
 
 PACKAGES
 Requires sgdm to create canonical components
