@@ -194,9 +194,9 @@ df[,c(2:17)] = env
 dist = read.csv("data2/Distance_to_GRNP_boundary.csv")
 ord = match(x = df$SITE_ID, table = dist$IN_FID)
 dist = dist[ord,]  
-df$dist_f = dist
+
+df$dist_f = dist$NEAR_DIST
+df = select(df,1:3,ncol(df), everything())
 
 # write.csv(df, "data2/XY_No_Satellite_Gola.csv")
-
-
 

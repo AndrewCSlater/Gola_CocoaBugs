@@ -54,8 +54,8 @@ spdf <- SpatialPointsDataFrame(coords = xy, data = coords,
 # # ----------------------------
 # # Import the satellite images
 # # ----------------------------
-rad = brick("data2/Sent1_2022_q1_Radar.tif")
-hansen = raster("data2/Hansen_GFC-2019-v1.7_lossyear_10N_020W.tif")
+rad = brick("satellite_data/Sent1_2022_q1_Radar.tif")
+hansen = raster("satellite_data/Hansen_GFC-2019-v1.7_lossyear_10N_020W.tif")
 
 ### CREATE VALUES FOR EACH BUFFER RADIUS ###
 # 1. Radar - Sentinel-1 

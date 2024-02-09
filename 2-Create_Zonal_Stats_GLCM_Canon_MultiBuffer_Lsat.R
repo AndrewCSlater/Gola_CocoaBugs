@@ -15,8 +15,8 @@ spdf <- SpatialPointsDataFrame(coords = xy, data = traps,
 # # ----------------------------
 # # Import the satellite images
 # # ----------------------------
-rad = brick("data2/Sent1_2022_q1_Radar.tif")
-hansen = raster("data2/Hansen_GFC-2019-v1.7_lossyear_10N_020W.tif")
+rad = brick("satellite_data/Sent1_2022_q1_Radar.tif")
+hansen = raster("satellite_data/Hansen_GFC-2019-v1.7_lossyear_10N_020W.tif")
 lsat = stack("satellite_data/Landsat8_2022_Jan_Bands_Indices_terra.tif")
 
 b = c(30, 60, 90, 120, 150, 250, 500) # Buffer radii
@@ -172,7 +172,7 @@ y = df1[,c(20:ncol(df1))]
 y[y>0]=1
 
 # Load Satellite data
-lsat = read.csv("data2/golaTRAPpoints_Landsat_2022_March_30_500m.csv")
+lsat = read.csv("data2/golaTRAPpoints_Landsat_2022_Jan_30_500m.csv")
 lsat = lsat[rownames(lsat)%in%rownames(df1),]
 
 sat_glcm = read.csv("data2/golaTRAPpoints_GLCM_Landsat_2022_Jan_30-500m.csv")
