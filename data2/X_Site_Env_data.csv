@@ -1,0 +1,119 @@
+Entry_order,Surveyor,SITE_ID,distance_f,Latitude,Longitude,canopyHt_m,bare_ground_pct,grass_pct,cocoa_pct,liana_pct,forest_pct,agric_pct,recent_burning_y_n,stumps_gt_10cm__y_n,stumps_gt_30cm_y_n,oil_palm_y_n,notes
+10,Sulaiman,0,1670.678143,7.756008002,-10.6954,20-30,0,0,60,0,0,0,No,Yes,yes,Yes,cocoa farm with one palm tree
+11,Sulaiman,1,1644.07341,7.756779665,-10.69696,20-30,0,0,60,0,0,0,No,yes,No,No,cocoa farm more than 8 years ago
+12,Sulaiman,2,1606.102981,7.75772343,-10.69795,30-40,0,0,0,0,0,0,No,No,No,No,very close to the stream/river
+9,Sulaiman,3,1622.741648,7.754995353,-10.69632,Oct-20,0,0,0,0,0,0,No,No,No,No,Farm bush more than 4 years
+13,Sulaiman,4,1074.512464,7.761431952,-10.69346,20-30,0,0,0,0.1,0,0,No,No,No,Yes,4 new fell in a recent farm and we moved in the forest patch with three palms in the plot
+14,Sulaiman,5,958.7097532,7.762626322,-10.69325,30-40,0,0,0,0.1,60,0,No,No,No,No,5 new The plot fell in swamp and we moved to a forest patch
+15,Sulaiman,6,1444.069759,7.767985484,-10.70166,40,0,0,0,5,60,0,No,No,No,No,mature forest (primary forest)
+7,Aruna,7,639.3060336,7.776660722,-10.69513,20-30,0,0,0.2,5,0.8,0,No,No,Yes,No,abandoned cocoa farm
+8,Aruna,8,655.1271642,7.775818977,-10.69535,Oct-20,0,0,1,0,0,0,No,Yes,No,No,cocoa farm
+17,Sulaiman,9,459.9998843,7.777982927,-10.69291,20-30,0,0,60,0,0,0,No,No,No,Yes,cocoa farm with one palm tree
+16,Sulaiman,10,522.2237516,7.776882488,-10.694,20-30,0,0,60,0,0,0,No,No,No,No,cocoa farm more than 9 years ago
+6,Aruna,11,0,7.789943349,-10.69734,20-30,0,0,0,May-20,1,0,No,No,No,No,"primary forest, waypoint corrected on collection day"
+5,Aruna,12,0,7.790350405,-10.69729,20-30,0,0,0,5,1,0,No,No,No,No,primary forest
+4,Aruna,13,766.2718737,7.78584905,-10.69096,20-30,0,0,0.3,5,0.7,0,No,No,No,No,forest next to cocoa next to Makpoima
+3,Aruna,14,816.5425469,7.796031174,-10.68548,20-30,0,0,0.75,5,0.25,0,No,No,No,No,cocoa farm mixed with forest
+2,Aruna,15,834.3470354,7.794917942,-10.68473,Oct-20,0,0,1,0,0,0,No,No,Yes,No,mature cocoa farm
+1,Aruna,16,826.2172228,7.792090123,-10.68909,Oct-20,0,0,1,0,0,0,No,No,Yes,No,mature cocoa farm
+21,Sulaiman,17,3458.311844,7.810201722,-10.74293,05-Oct,0,0,0,0,0,0,No,No,No,No,farm bush more than 5 years ago
+20,Sulaiman,18,3398.850435,7.805429928,-10.74526,05-Oct,0,0,1,0,0,0,No,No,No,Yes,cocoa farm with one palm trees
+19,Sulaiman,19,3545.551798,7.802636,-10.74905,05-Oct,0,0,0,0,0,0,No,No,No,No,farm bush more than 7 years ago
+17,Sulaiman,20,3569.796836,7.801883,-10.75008,Oct-20,0,0,0,0,0,0,No,No,No,No,farm bush more than 10 years ago
+18,Sulaiman,21,3793.333139,7.804512,-10.75037,30-40,0,0,0,05-Oct,1,0,No,No,No,No,primary forest
+13,Aruna,22,2976.438297,7.794290759,-10.75052,30-40,0,0,0,May-20,1,0,No,No,yes,No,primary forest
+11,Aruna,23,1287.026056,7.777413,-10.75533,20-30,0,0,0,5,1,0,No,No,No,No,forest next to community swamp (project)
+12,Aruna,24,1789.926272,7.783622,-10.75878,20-30,0,0,0,5,1,0,No,yes,yes,No,waypoint falls into new rice farm
+3,Aruna,25,2847.940222,7.786886645,-10.78838,Oct-20,0,0,1,0,0,0,No,No,yes,No,cocoa plantation
+4,Aruna,26,2939.467629,7.789038006,-10.78724,30-40,0,0,0.7,5,0.3,0,No,No,No,No,cocoa mixed with forest
+2,Aruna,27,2569.655702,7.788621055,-10.78203,Oct-20,0,0,1,0,0,0,No,yes,No,No,cocoa plantation
+1,Aruna,28,2617.094367,7.790899216,-10.77816,Oct-20,0,0,1,0,0,0,No,No,No,No,cocoa plantation
+16,Sulaiman,29,3156.673282,7.796613,-10.77574,Oct-20,0,0,1,0,0,0,No,No,No,No,cocoa farm more than 10 years ago
+7,Aruna,30,3447.843803,7.783068,-10.79821,20-30,0,0,0,5,1,0,No,No,yes,No,forest next to community farm
+6,Aruna,31,3488.861723,7.78626622,-10.79642,20-30,0,0,0,May-20,1,0,No,No,No,No,primary forest
+5,Aruna,32,3392.591853,7.786564154,-10.79513,30-40,0,0,0,May-20,1,0,No,No,No,No,primary forest
+15,Sulaiman,33,3755.047188,7.800447744,-10.78202,Oct-20,0,0,1,0,0,0,No,No,No,No,cocoa farm bush more than 15 years ago
+14,Sulaiman,34,3583.814896,7.798611822,-10.78247,05-Oct,0,0,1,0,0,0,No,No,No,No,Cocoa farm plantation 10 m
+10,Aruna,35,1952.75942,7.783548,-10.77963,20-30,0,0,0,0,1,0,No,No,No,No,forest to farm bush less than 2 years
+8,Aruna,36,1983.567796,7.77922,-10.78469,Oct-20,0,0,0,5,1,0,No,No,No,No,forest next to community rice farm
+9,Aruna,37,1995.471274,7.780418,-10.78387,Oct-20,0,0,1,5,0,0,No,No,No,No,cocoa next to rice farm
+22,Sulaiman,38,2792.143701,7.759617315,-10.80474,05-Oct,0,0,0,0.3,0.7,0,No,No,Yes,Yes,"1 natural oil palm. new site because orig 38 was in farmbush and inaccessible, 29N 0300972,858147"
+19,Aruna,39,2192.640197,7.754197288,-10.80362,30-40,0,0,0,5,1,0,No,No,No,No,"no comment, 29N 0301093, 857547"
+20,Aruna,40,2251.135456,7.754700326,-10.80298,Oct-20,0,0,0.9,0,0.1,0,No,yes,No,No,cocoa plantation
+21,Aruna,41,954.7543716,7.742334296,-10.7974,Oct-20,0,0,0.25,0,0.75,0,No,No,No,No,"cocoa plantation next to farm bush, 29N 0301774, 856232"
+8,Aruna,42,833.4569839,7.739259669,-10.81388,30-40,0,0,0,May-20,1,0,No,Yes,Yes,No,primary forest
+23,Sulaiman,43,704.0250232,7.738234707,-10.81324,20-30,0,0,0,0.2,0.8,0,No,No,No,No,"forest, 29N 0300025, 855786"
+6,Aruna,44,1569.19365,7.743396206,-10.82294,30-40,0,0,0,May-20,1,0,No,No,No,No,secondary forest
+7,Aruna,45,972.085086,7.739288328,-10.81846,Oct-20,0,0,0,5,1,0,No,No,No,No,"forest patch next to new rice farm, 29N 0299449, 855905"
+5,Aruna,46,1591.275023,7.744439603,-10.82087,Oct-20,0,0,0.25,0,0.75,0,No,No,No,No,mixture of cocoa farm and forest
+3,Aruna,47,1924.890247,7.748584475,-10.81713,Oct-20,0,0,0.5,0,0.5,0,No,Yes,No,No,new cocoa plantation
+4,Aruna,48,1801.229676,7.747213383,-10.81781,Oct-20,0,0,1,0,0,0,No,Yes,No,No,old cocoa farm over 40 years old
+2,Aruna,49,1799.96428,7.74774519,-10.81604,Oct-20,0,0,1,0,0,0,No,No,Yes,No,"cocoa plantation, understorey recently cleared"
+1,Aruna,50,1757.100715,7.747781737,-10.81463,20-30,0,0,0.25,5,0.75,0,No,No,No,No,"abandoned cocoa plantation and forest mixture (i.e. old and understorey filled, and overstorey partially intact)"
+17,Aruna,51,1835.606474,7.750960092,-10.80485,Oct-20,0,0,0.8,0,0.2,0,No,Yes,Yes,No,cocoa plantation
+18,Aruna,52,1771.300325,7.75020066,-10.80662,Oct-20,0,0,0.8,0,0.2,0,No,Yes,yes,No,broken pole
+9,Nyallay,53,3901.545948,7.765184692,-10.8241,20-30,5,60,0,May-20,0,0,No,No,Yes,Yes,only one oil palm tree presentq
+10,Nyallay,54,3852.790877,7.765015173,-10.82305,20-30,5,0,60,0,May-20,0,No,No,Yes,Yes,four oil palm trees.  location next to forest patch
+12,Nyallay,55,3666.129145,7.763516581,-10.82214,20-30,0,0,0,5,5,0,No,Yes,Yes,No,next to cocoa plantation
+11,Nyallay,56,3761.541904,7.764437871,-10.82209,20-30,0,0,60,0,May-20,0,No,No,No,No,"1 palm tree, not oil palm. next to forest patch"
+13,Nyallay,57,3481.832646,7.758405777,-10.83158,20-30,0,0,0,May-20,60,0,No,No,No,Yes,1 palm tree in the plot with old coffee plantation
+14,Nyallay,58,3783.132172,7.759541759,-10.83503,20-30,0,0,60,0,May-20,0,No,No,No,Yes,"1 oil palm, new point made due to new farm, 29N 0297631, 858153"
+16,Nyallay,59,3963.425661,7.763250786,-10.83162,Oct-20,0,0,60,0,5,0,No,No,No,No,next to a stream
+15,Nyallay,60,3966.17441,7.76107742,-10.8357,20-30,0,0,60,0,5,0,No,No,No,Yes,only 1 palm tree
+28,Nyallay,61,2475.51958,7.745562585,-10.83957,20-30,0,0,0,May-20,40-60,0,No,No,No,No,"collection time approx, 29N 0297123, 856609"
+25,Nyallay,62,3548.114211,7.754982948,-10.84214,Oct-20,0,0,0,May-20,60,0,No,No,No,No,collection time approx
+26,Nyallay,63,3184.277058,7.75096692,-10.84318,20-30,0,0,0,May-20,60,0,No,No,No,Yes,"2 palm trees inside the plot next to farm bush, collection time approx"
+24,Nyallay,64,3755.077831,7.757000576,-10.84207,Oct-20,0,0,0,May-20,60,0,No,No,No,Yes,"1 old palm tree inside the plot degraded forest, collection time approx"
+27,Nyallay,65,3126.9759,7.750228677,-10.84351,20-30,0,0,0,May-20,60,0,No,No,No,No,collection time approx
+3,Nyallay,66,1900.086587,7.729339484,-10.93445,40,0,0,0,5,40-60,0,No,No,No,No,old secondary forest
+5,Nyallay,68,2049.289594,7.722265248,-10.93778,20-30,0,0,0,0,60,0,No,No,No,Yes,1 palm tree present in the plot
+26,Sagara,69,2143.804898,7.69524,-10.98586,02-May,0,0,0,0,5,>60%,Yes,Yes,Yes,No,"69, 70 and 71 changed due to new highland rice farm. No real forest around. Traps placed in the highland rice plantation"
+25,Sagara,70,2206.939935,7.69668,-10.98296,02-May,0,0,0,0,0,>60%,Yes,Yes,Yes,No,"69, 70 and 71 changed due to new highland rice farm. No real forest around. Traps placed in the highland rice plantation"
+24,Sagara,71,2428.902318,7.698481872,-10.98399,01-Feb,0,0,0,0,5,>60%,Yes,Yes,Yes,No,"69, 70 and 71 changed due to new highland rice farm. No real forest around. Traps placed in the highland rice plantation, 29N 0281166, 851473"
+4,Nyallay,73,1185.297997,7.684953157,-10.98772,20-30,0,0,0,5,60,0,No,No,No,No,near stream
+5,Aruna,74,1258.127869,7.686128,-10.98715,40,0,0,0,May-20,1,0,No,Yes,No,No,"used 74 new because 74_orig is located right next to a stream, so we placed 74 new just uphill from the stream"
+6,Aruna,75,1283.576403,7.679814953,-10.99239,Oct-20,0,0,0,20-40,1,0,No,No,No,No,Raining
+7,Nyallay,76,1291.900205,7.678718696,-10.99275,30-40,0,0,0,20-40,60,0,No,No,Yes,No,next to gap
+12,Aruna,77,1567.875001,7.673989944,-10.99551,40,0,0,0,May-20,1,0,No,No,No,No,No comments
+11,Aruna,78,1460.082105,7.674338564,-10.99453,30-40,0,0,0,5,1,0,No,No,No,No,No comments
+10,Aruna,79,1401.395735,7.67529,-10.99399,30-40,0,5,0,5,1,0,No,Yes,Yes,No,"20 m from gap, 79 orig was in the gap"
+13,Aruna,80,1562.803041,7.675646543,-10.99545,Oct-20,0,0,0,May-20,1,0,No,No,No,No,No comments
+23,Sagara,85,2714.062697,7.699960939,-10.98808,05-Oct,0,0,0,0,60,0,No,No,No,No,Natural Raffia palm
+21,Sagara,86,2818.877353,7.700565663,-10.98933,20-30,0,0,0,5,60,0,No,No,No,No,Next to a trail
+20,Sagara,87,2877.800448,7.700225669,-10.99171,20-30,0,0,0,5,60,0,No,No,No,No,next to upload rice farm
+22,Sagara,88,2922.386364,7.701664728,-10.98896,20-30,0,0,0,5,60,0,No,No,No,No,0
+19,Sagara,89,2998.211068,7.697738462,-10.99801,Oct-20,0,5,0,Oct-20,60,0,No,No,No,No,Disturbed forest
+18,Sagara,90,3003.741085,7.69726403,-10.99868,Oct-20,0,May-20,0,5,60,0,No,No,No,No,Disturbed forest
+37,Sagara,93,2916.833066,7.666539886,-11.0078,Oct-20,0,0,0,May-20,60,0,No,No,No,No,"edge of older highland rice farm (was left fallow last year), 29N 0278522, 847952"
+36,Sagara,94,3099.379704,7.665899324,-11.00946,20-30,0,0,0,0,60,0,No,No,No,No,"edge of new highland rice farm, 29N 0278339, 847882"
+8,Aruna,95,319.1401024,7.674817734,-10.97079,20-30,0,0,0,0.2,0.8,0,No,No,No,No,near two old gaps
+9,Nyallay,96,0,7.678970912,-10.96867,Oct-20,0,0,0,0,40-60,0.4,No,No,Yes,No,"new cocoa and coffee farm, trap placed at edge of plantation, 29N 0282846, 849307"
+35,Aruna,97,962.6213336,7.685966134,-10.9593,40,0,0,0,5,1,0,No,No,No,No,"100 m east of a farm, most of the trail there is along the continuation of the road to Lalehun, needs photos"
+31,Sagara,98,3037.342744,7.685846341,-11.00712,05-Oct,0,0,60,0,0,0,No,No,No,Yes,Has two forest trees as canopy
+32,Sagara,99,3106.438708,7.683739703,-11.00845,Oct-20,0,May-20,60,0,20-40,0,No,No,No,No,Edge of the forest
+30,Sagara,100,2492.121399,7.68181,-11.0032,Oct-20,0,0,0,5,60,0,No,No,No,No,"Next to old agriculture farm, forest degraded"
+14,Aruna,101,1733.813893,7.681753357,-10.99604,30-40,0,0,0,0,1,0,No,No,Yes,No,Close to a stream
+15,Aruna,102,1906.671682,7.679412261,-10.99829,20-30,5,0,0,5,1,0,No,No,No,No,No comments
+16,Sulaiman,103,2152.805031,7.681010374,-11.00023,20-30,5,0,0,0,0.95,0,No,No,No,Yes,20 m from river
+3,Aruna,104,1503.239686,7.690044415,-10.97315,30-40,0,0,0,0,1,0,No,No,No,No,Rice farm 20 m to East (newly created)
+2,Nyallay,105,1082.832199,7.686842233,-10.97562,30-40,0,5,May-20,0,May-20,0,No,No,No,No,Next to plantation of Cocoa and Cola
+1,Aruna,106,1165.092691,7.686838712,-10.97343,20-30,0,0,0,5,0.95,0,No,No,Yes,No,First trap deployed!
+38,Sagara,107,3719.684893,7.672120022,-11.01503,20-30,0,0,0,0,60,0,No,No,No,No,"small forest fragment with coffee plants in understorey, 29N 0277727, 848573"
+34,Sagara,108,3125.120452,7.690381932,-11.00588,Oct-20,0,0,60,0,0,0,No,No,No,Yes,cocoa farm
+33,Sagara,109,3038.218181,7.687935496,-11.00626,05-Oct,0,0,60,0,0,0,No,No,No,No,cocoa farm
+17,Sagara,110,3338.865773,7.697701589,-11.0027,01-Feb,0,0,0,0,0,100,No,No,No,Yes,Abandoned agriculture plot
+27,Aruna,111,3902.623426,7.695981234,-11.01069,Oct-20,0,0,1,0,0,0,No,No,No,No,cocoa farm
+28,Aruna,112,4048.573942,7.699173791,-11.00999,Oct-20,0,0,1,0,0.1,0,No,No,No,Yes,cocoa farm
+29,Aruna,115,3497.513031,7.68352,-11.01216,Oct-20,5,0,1,0,0,0,No,Yes,No,No,original point could not be reached because of flooding
+11,Sagara,GRNP240,0,7.664104986,-10.9522,20-30,0,0,0,5,1,0,no,no,no,no,"we were having lunch until 12:55, close to recorder. The forest habitat is a swampy water-logged area. Large trees but, small height"
+1,Sagara,GRNP273,0,7.664105251,-10.92108,30-40,0,0,0,5,1,0,no,no,no,no,0
+13,Sagara,GRNP29,0,7.659653443,-10.95997,30-40,0,0,0,0,1,0,no,no,no,no,0
+8,Sagara,GRNP42,0,7.668556613,-10.92886,30-40,0,0,0,0,1,0,no,no,no,no,0
+5,Sagara,GRNP598,0,7.65075088,-10.89774,30-40,0,0,0,5,1,0,no,no,no,no,The location is beside a large opening created by a naturally fallen gigantic tree
+3,Sagara,GRNP663,0,7.663559242,-10.90598,40,0,0,0,5,1,0,no,no,no,no,Had to change the site due to steep area are where it was difficult to set up Malaise Trap
+12,Sagara,GRNP711,0,7.668556344,-10.95997,30-40,0,0,0,0,1,0,no,no,no,no,0
+10,Sagara,GRNP742,0,7.66855648,-10.94442,20-30,0,0,0,May-20,1,0,no,no,no,no,0
+4,Sagara,GRNP775,0,7.655202384,-10.90552,40,0,0,0,5,1,0,no,no,no,no,0918 picture number has the location information
+9,Sagara,GRNP83,0,7.66410512,-10.93664,20-30,0,0,0,May-20,0.7,0,no,no,no,no,"30% of the area is roky opening. There has been logging here before, but, the recovery might have been a bit slower, due rocky terrain. The forest is super unique, small stunded trees, over rocky-outcrops! Barely any soil in certain areas, but filled with moss, lichen and herbacious plants. extra pictures from 0987 - 0990"
+2,Sagara,GRNP98,0,7.659653841,-10.9133,40,0,0,0,5,1,0,no,no,no,no,0
+39,Doug,Lalehun_Station,0,7.672522,-10.97911,20-30,0.1,0.7,0,0,0.1,0,No,No,No,No,"Clearing of Lalehun station, at the edge of GRNP forest"
